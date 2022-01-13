@@ -75,7 +75,7 @@ OUT 1,1
 
 ## [ファームウェア](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware/)
 -->
-## [Q&A](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/FAQ.md)
+## [Q&A](https://github.com/bit-trade-one/ADICGIR/blob/master/FAQ.md)
 <!--
 ### [ライブラリ](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Library)  
 
