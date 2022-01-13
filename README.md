@@ -52,7 +52,7 @@ exp.
 ## [マニュアル](https://github.com/bit-trade-one/ADICGIR/tree/master/Manual)
 
 
-# クイックリファレンス
+## クイックリファレンス
 適切にIchigoJamに本機を接続した状態で実行してください。
 ##### 全点送信やめ（全点消灯）
 ```
