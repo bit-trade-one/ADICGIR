@@ -1,4 +1,4 @@
-# IchigoJam 専用 学習リモコン基板
+# ADICGIR-IchigoJam 専用 学習リモコン基板
 ![画像](https://bit-trade-one.co.jp/wp/wp-content/uploads/2018/10/53df7132ad493040993cafe5b067c46c.png)
 
 IchigoJam(イチゴジャム)専用 学習リモコン基板は、IchigoJamを高度な赤外線学習リモコンとして動作させる事が可能な拡張基板です。   
