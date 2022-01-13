@@ -2,10 +2,10 @@
 
 ## ここに見出し
 
-![タイトル画像のURLを右のカッコに]()
+![画像](https://bit-trade-one.co.jp/wp/wp-content/uploads/2018/10/53df7132ad493040993cafe5b067c46c.png)
 
-「●●●●●」はほにゃららするためのなんちゃらボード。  
-この製品を使用する事でもにょもにょがぺけぺけできる。  
+IchigoJam(イチゴジャム)専用 学習リモコン基板は、IchigoJamを高度な赤外線学習リモコンとして動作させる事が可能な拡張基板です。
+基板上に７個のスイッチを搭載し、それぞれスイッチ毎に赤外線リモコン信号を基板本体内に記録可能です。
 
 <!--
 改行する場合、文末に半角スペース2個を置く
@@ -47,16 +47,16 @@ exp.
 各情報フォルダにMarkdown形式に起こし"Readme.md"という名前で保存すること
 -->
 
-# [製品の詳細はこちら](http://bit-trade-one.co.jp/) 
+# [製品HP](https://bit-trade-one.co.jp/adicgir/) 
 
 ## [マニュアル](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
-
+<!--
 ## [アプリケーションソフト](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App/)  
 
 ## [ファームウェア](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware/)
-
+-->
 ## [Q&A](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/FAQ.md)
-
+<!--
 ### [ライブラリ](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Library)  
 
 ### [サンプルコード](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Sample)  
@@ -67,10 +67,11 @@ exp.
 
 ### [基板図](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/Dimensions/-ADXXXXX-Template-Dimensions.pdf)
 
-### [回路図](https://github.com/bit-trade-one/-ADXXXXX-Templateo/blob/master/Schematics/-ADXXXXX-Template-Schematics.pdf)
-
 ### [部品表](https://github.com/bit-trade-one-ADXXXXX-Templateo/blob/master/Partslist/-ADXXXXX-Template-Partslist.md)
 
+-->
+### [回路図](https://github.com/bit-trade-one/-ADXXXXX-Templateo/blob/master/Schematics/-ADXXXXX-Template-Schematics.pdf)
+<!--
 
 ## 作例
 
@@ -84,7 +85,7 @@ exp.
 
 [ラズパイマガジンXX年Y月号]()  
 [Pc Watch]()
-
+-->
 ## 製品仕様
     【対応OS】Windows7以降
     【サイズ】W16×D20×H5mm
