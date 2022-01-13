@@ -1,22 +1,9 @@
-# ADXXXXX-Template よくある質問
+# ADICGIR-IchigoJam 専用 学習リモコン基板
 
-## Q.XXXとはなんですか？
+## Q.IchigoJamの電源をONにすると、各SWのLEDがすべて点灯状態となります。どうすれば良いですか？
 
-### A.YYYです。結論がここにドカンと　見出し\#行で上下1行空けるのはMarkdownの書式
-
-Lorem ipsum dolor sit amet, consectetur  
-返答の詳細がバーっと  
-adipiscing elit, sed do eiusmod tempor incididunt ut  
-
-## Q.XXXをZZZ出来ますか？  
-
-### A.はい、可能です。  
-
-labore et dolore magna aliqua. Ut enim  
-ad minim veniam, quis nostrud exercitation  
-
-## Q.YYYでなくWWWとして使いたいです
-
-### A.申し訳ありませんが対応しておりません。  
-
-ullamco laboris nisi ut aliquip ex ea commodo consequat.   
+### A.本製品は送信がデフォルトとなっております。下記コマンドを入力し、全点の送信をやめてからお使いください。
+全点送信やめ（全点消灯）
+```
+OUT ~64
+```
