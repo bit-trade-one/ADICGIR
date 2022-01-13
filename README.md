@@ -52,8 +52,8 @@ exp.
 ## [マニュアル](https://github.com/bit-trade-one/ADICGIR/tree/master/Manual)
 
 
-## クイックリファレンス
-適切にIchigoJamに接続した状態で実行してください。
+# クイックリファレンス
+適切にIchigoJamに本機を接続した状態で実行してください。
 #### 全点消灯
 ```
 10  OUT ~64
