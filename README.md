@@ -46,7 +46,7 @@ exp.
 
 # [製品HP](https://bit-trade-one.co.jp/adicgir/) 
 
-## [マニュアル](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
+## [マニュアル](https://github.com/bit-trade-one/ADICGIR/tree/master/Manual)
 <!--
 ## [アプリケーションソフト](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App/)  
 
