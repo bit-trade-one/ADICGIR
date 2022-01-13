@@ -67,7 +67,7 @@ exp.
 ### [部品表](https://github.com/bit-trade-one-ADXXXXX-Templateo/blob/master/Partslist/-ADXXXXX-Template-Partslist.md)
 
 -->
-### [回路図](https://github.com/bit-trade-one/-ADXXXXX-Templateo/blob/master/Schematics/-ADXXXXX-Template-Schematics.pdf)
+### [回路図](https://github.com/bit-trade-one/ADICGIR/tree/master/Schematics)
 <!--
 
 ## 作例
