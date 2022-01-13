@@ -50,6 +50,26 @@ exp.
 # [製品HP](https://bit-trade-one.co.jp/adicgir/) 
 
 ## [マニュアル](https://github.com/bit-trade-one/ADICGIR/tree/master/Manual)
+
+
+## クイックリファレンス
+適切にIchigoJamに接続した状態で実行してください。
+#### 全点消灯
+```
+10  OUT ~64
+```
+
+#### SW1送信
+```
+10  OUT 1,0
+```
+
+
+#### SW1送信やめ
+```
+10  OUT 1,1
+```
+
 <!--
 ## [アプリケーションソフト](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App/)  
 
