@@ -70,7 +70,7 @@ exp.
 
 # [製品HP](https://bit-trade-one.co.jp/adicgir/) 
 
-## [マニュアル](https://github.com/bit-trade-one/ADICGIR/tree/master/Manual)
+## [マニュアル](https://github.com/bit-trade-one/ADICGIR/blob/master/Manual/ADICGIR_IchigoJam%E5%AD%A6%E7%BF%92%E3%83%AA%E3%83%A2%E3%82%B3%E3%83%B3_Manual.pdf)
 
 <!--
 ## [アプリケーションソフト](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App/)  
